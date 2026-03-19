@@ -1,6 +1,6 @@
 Hello! 
 Hey, my name is Umaymah Bilal & I am currently an ASPIRING Cybersecurity Apprentice: in building my skills, sharing my journey and experience, and inspiring other to BREAK into tech. 
-**So, what am I studying: I am in my last year, studying an BTEC computer science student with ONE clear goal: to build a career in cybersecurity and make real life impact as a women in stem.** 
+**So, what am I studying: I am in my last year, studying an BTEC computer science student with ONE clear goal: to build a career in software engineering and make real life impact as a women in stem.** 
 
 Behind the scenes, I have completed coursework with projects including: databases, websites, project managements, networks and cyber. I also took the project in using my skills into the real work place, where I turned my “side buisness” of print on demand - as a professional “e-commerce website developer”.
 
